@@ -75,7 +75,6 @@ After successful meshing and device simulation, the project can be extended to s
 
 The parameterized device geometry, doping definitions, contact definitions, and mesh refinement setup are prepared in the SDE script. Successful geometry construction, mesh generation, and electrical simulation are verified.
 
-##  Author
-Vakiti Manohar
+##  Author-Vakiti Manohar
 Project developed as part of semiconductor device modeling and advanced transistor simulation studies.
 
